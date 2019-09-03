@@ -1,0 +1,30 @@
+
+Ysquid:S21842"BCast one of the operands of this addition operation to a "double".(§¯´Õ
+P"squid:SwitchLastCaseIsDefaultCheck3""Add a default case to this switch.(š„äÛ
+7squid:S3010F" Remove this assignment of "MAX".(Ú³Ô‘
+Gsquid:S2160"+Override the "equals" method in this class.(Â»ˆùÿÿÿÿ
+dsquid:S3008"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©®°Y
+Ksquid:S1066j"/Merge this if statement with the enclosing one.(—ìÅ‰ÿÿÿÿÿ
+=squid:S1068"'Remove this unused "MAX" private field.(©®°Y
+bsquid:S13013"KReplace this "switch" statement by "if" statements to increase readability.(š„äÛ
+U
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(ÿ˜¦ÿÿÿÿÿ
+U
+squid:S106º"9Replace this use of System.out or System.err by a logger.(­«óùÿÿÿÿ
+P
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(¢àóÄ
+U
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(ÿ˜¦ÿÿÿÿÿ
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ÃËÍûÿÿÿÿ
+P
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(èË…Ô
+O
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(üĞÛ
+Esquid:S1125’"(Remove the literal "true" boolean value.(ÈáË‘şÿÿÿÿ
+]squid:HiddenFieldCheck";Rename "counter" which hides the field declared at line 13.(ŒÂëó
+†"squid:ClassVariableVisibilityCheck"SMake wrapped a static final constant or non-public and provide accessors if needed.(¿É‚„üÿÿÿÿ
+Lsquid:S2209F"5Change this instance-reference to a static reference.(Ú³Ô‘
+^squid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(¡Í
+:squid:S2119."Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+Qsquid:S1161&":Add the "@Override" annotation above this method signature(Á»›ê

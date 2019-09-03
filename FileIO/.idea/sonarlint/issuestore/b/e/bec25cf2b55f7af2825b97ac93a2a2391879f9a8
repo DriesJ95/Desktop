@@ -1,0 +1,50 @@
+
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(ù€•
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(øß¹ 
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(³éïèøÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Á·¨Õ
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Î¦Şà
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ù€•
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ŸÚá
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ù€•
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ä¬éœ
+O
+squid:S106["9Replace this use of System.out or System.err by a logger.(„½ó
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ù€•
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(÷ÚåÑ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(şş­¥şÿÿÿÿ
+T
+squid:S1063"9Replace this use of System.out or System.err by a logger.(˜íÖïøÿÿÿÿ
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(Çëæ¾úÿÿÿÿ
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ƒˆà¡
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(““£Â
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(­ßøæøÿÿÿÿ
+ˆsquid:S1192%"qDefine a constant instead of duplicating this literal "------------------------------------------------" 4 times.(ù€•
+`squid:S2095("DUse try-with-resources or close this "Stream" in a "finally" clause.(Çëæ¾úÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(°Â¤Œüÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(å˜ĞË
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(Å¦…åüÿÿÿÿ

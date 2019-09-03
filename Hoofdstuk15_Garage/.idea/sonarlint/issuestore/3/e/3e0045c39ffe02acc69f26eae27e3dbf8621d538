@@ -1,0 +1,22 @@
+
+%squid:RedundantThrowsDeclarationCheck@"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(µØ¹Œ
+âsquid:S1192c"ÊDefine a constant instead of duplicating this literal "-----------------------------------------------------------------------------------------------------------------------------------------" 3 times.(º®¨
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+O
+squid:S106c"9Replace this use of System.out or System.err by a logger.(º®¨
+O
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ñ®­Í
+O
+squid:S106w"9Replace this use of System.out or System.err by a logger.(’Ï¯¿
+T
+squid:S106x"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S106y"9Replace this use of System.out or System.err by a logger.(º®¨
+O
+squid:S106z"9Replace this use of System.out or System.err by a logger.(¡õ‡¤
+O
+squid:S106{"9Replace this use of System.out or System.err by a logger.(º®¨
+]squid:S11269"AReplace this if-then-else statement by a single return statement.(÷¶»ûÿÿÿÿÿ
+]squid:S1126A"AReplace this if-then-else statement by a single return statement.(šºÍûûÿÿÿÿ
+^squid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(µØ¹Œ

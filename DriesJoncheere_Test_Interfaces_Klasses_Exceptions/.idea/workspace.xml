@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa0fa4c7-f135-46b6-b2d7-f9f03dd0963b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DriesJoncheere_Test_Interfaces_Klasses_Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamAppV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/application/WaffleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/Cone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/Flavour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/IceRocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/Magnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/eatables/MagnumType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/exceptions/NoMoreIceCreamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSalon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/PriceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/Profitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/sellers/WaffleSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/FirstGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/src/com/tutorial/main/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/src/com/tutorial/main/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/CarBoatApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/CarBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/CarZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/ContainerBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/exceptions/BoatFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/exceptions/BoatOverLoadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/ProtoGarage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/CarDock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/ContainerDock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/Dock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/Harbor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/interfaces/Floatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk12" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/AnonCarsApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/AnonCarsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/AnonCarsApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/CabrioletApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/CabrioletApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/GarageApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/GarageApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/enums/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/enums/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Cabriolet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Cabriolet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/FamilyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/FamilyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/SportCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/AnonCarsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/AnonCarsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/CabrioletApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/CabrioletApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/GarageApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/GarageApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/enums/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Cabriolet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Cabriolet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/FamilyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/FamilyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/SportCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/interfaces/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/interfaces/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk7_Cats" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk7_Cats" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/Flavour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/Eatable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSalon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSeller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1584">
+              <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamAppV2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/Stock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/PriceList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/MagnumType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="98" selection-start-line="5" selection-start-column="98" selection-end-line="5" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="721">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/be/intecbrussel/application/IceCreamApp.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamApp.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamAppV2.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/eatables/MagnumType.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/eatables/Flavour.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/exceptions/NoMoreIceCreamException.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSeller.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/eatables/Eatable.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/eatables/IceRocket.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSalon.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/eatables/Cone.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/eatables/Magnum.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sellers/PriceList.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sellers/Stock.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sellers/Profitable.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sellers/WaffleSeller.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/application/WaffleApp.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamCar.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553630969707" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/INTEC2019/New folder/Test1-16_DRIESJONCHEERE" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IceCreamAppV2">
+    <configuration name="IceCreamApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.be.intecbrussel.application.IceCreamApp" />
+      <module name="DriesJoncheere_Test_Interfaces_Klasses_Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.be.intecbrussel.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IceCreamAppV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.application.IceCreamAppV2" />
+      <module name="DriesJoncheere_Test_Interfaces_Klasses_Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaffleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.application.WaffleApp" />
+      <module name="DriesJoncheere_Test_Interfaces_Klasses_Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IceCreamAppV2" />
+        <item itemvalue="Application.WaffleApp" />
+        <item itemvalue="Application.IceCreamApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0fa4c7-f135-46b6-b2d7-f9f03dd0963b" name="Default Changelist" comment="" />
+      <created>1553501959781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553501959781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.11940298" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" x="22" y="368" width="1876" height="304" id="Run" maximized="true" order="6" type="WINDOWED" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.11940298" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/Profitable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/exceptions/NoMoreIceCreamException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/Cone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/Magnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/IceRocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/WaffleSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/application/WaffleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="62" lean-forward="true" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/Flavour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/Eatable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSalon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/IceCreamCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamAppV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/sellers/PriceList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/eatables/MagnumType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="98" selection-start-line="5" selection-start-column="98" selection-end-line="5" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/application/IceCreamApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

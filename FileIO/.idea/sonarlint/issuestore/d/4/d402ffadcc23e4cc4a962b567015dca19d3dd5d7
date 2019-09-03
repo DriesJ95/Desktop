@@ -1,0 +1,19 @@
+
+U
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ô8ºÄ‘À¦-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜´é»8¬ÌÍÀ¦-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çëæ¾úÿÿÿÿ8²©ÄÀ¦-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¦¦—üÿÿÿÿ8ç°‚À¦-
+gsquid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Çëæ¾úÿÿÿÿ8‘ôÃÀ¦-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(“§êÆ8¶ïÚÀ¦-
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ8¥Ü’À¦-
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(±ñÖ¶8ŒŒˆÀ¦-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½”Â³
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÕõÄâ8¥ıˆÀ¦-

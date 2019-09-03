@@ -1,0 +1,7 @@
+
+rsquid:S3008"[Rename this field "NUMBER_OF_WHEELS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÃŽœ
+Ksquid:S1068"4Remove this unused "NUMBER_OF_WHEELS" private field.(±ÃŽœ
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+T
+squid:S106e"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ

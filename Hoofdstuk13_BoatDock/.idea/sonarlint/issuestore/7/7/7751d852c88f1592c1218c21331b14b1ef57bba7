@@ -1,0 +1,6 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨“ÎÞþÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake horsePower a static final constant or non-public and provide accessors if needed.(ÖåÕºüÿÿÿÿ
+xsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(šÍáò
+Qsquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê

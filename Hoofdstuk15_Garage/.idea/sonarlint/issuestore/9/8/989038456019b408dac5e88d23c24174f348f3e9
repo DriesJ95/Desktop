@@ -1,0 +1,11 @@
+
+Gsquid:S2160"+Override the "equals" method in this class.(Å¾­éùÿÿÿÿ
+vsquid:S3008	"ZRename this field "NUMBER_OF_SEATS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ùá¾ıÿÿÿÿ
+Osquid:S1068	"3Remove this unused "NUMBER_OF_SEATS" private field.(¹Ùá¾ıÿÿÿÿ
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(¡Ç¼æùÿÿÿÿ
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(¦¨şâúÿÿÿÿ
+Qsquid:S2209"5Change this instance-reference to a static reference.(¡Ç¼æùÿÿÿÿ
+Qsquid:S2209"5Change this instance-reference to a static reference.(¦¨şâúÿÿÿÿ
+Bsquid:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ
+`"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê

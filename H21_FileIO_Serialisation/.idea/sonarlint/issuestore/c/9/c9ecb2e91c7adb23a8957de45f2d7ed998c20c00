@@ -1,0 +1,8 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒÛ€şÿÿÿÿ8Ç½çÛ©-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8÷‰éÛ©-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì¢òæÿÿÿÿÿ8Ç½çÛ©-
+1squid:S1220""Move this file to a named package.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Œ£èÛ©-

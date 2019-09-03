@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97b5420b-c2f6-4529-9b49-592f3de60600" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/MainV8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/enums/MenuCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/exceptions/BubbleIngredientShortage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/fruits/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/fruits/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/fruits/Strawberry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/ingredients/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/ingredients/BubbleTeaIngredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/ingredients/Cream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/ingredients/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/ingredients/Spice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/interfaces/Boilable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/main/BubbleTea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/main/BubbleTeaBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/main/BubbleTeaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/main/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/main/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/main/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/main/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/spices/Cinamon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BubbleTeaRecap/src/bubbleTea/spices/Ginger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/DriesJoncheere_Test_Interfaces_Klasses_Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/application/IceCreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/application/IceCreamAppV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/application/WaffleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/eatables/Cone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/eatables/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/eatables/Flavour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/eatables/IceRocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/eatables/Magnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/eatables/MagnumType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/exceptions/NoMoreIceCreamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/sellers/IceCreamCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/sellers/IceCreamSalon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/sellers/IceCreamSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/sellers/PriceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/sellers/Profitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/sellers/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Interfaces_Klasses_Exceptions/src/be/intecbrussel/sellers/WaffleSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/FirstGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/src/com/tutorial/main/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstGame/src/com/tutorial/main/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/ForestNoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/animal_entities/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/animal_entities/Carnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/animal_entities/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/animal_entities/Omnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/plant_entities/Bush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/plant_entities/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/plant_entities/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/plant_entities/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/plant_entities/Weed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/plant_entities/enums/LeafType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/entities/plant_entities/enums/Scent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/forestbook_app/ForestBookApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForestBook/src/service/ForestNotebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/CarBoatApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/CarBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/CarZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/boat/ContainerBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/exceptions/BoatFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/exceptions/BoatOverLoadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/ProtoGarage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/CarDock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/ContainerDock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/Dock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/harbor/Harbor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/interfaces/Floatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/Hoofdstuk18_lambda's.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main/TextApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main/TextPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main/WordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main2/NumberParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main2/TextApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main2/TextPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main2/TextScrambler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main2/TextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk18_lambda's/src/main2/WordProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/Hoofdstuk19_Streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/src/main/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/src/main/StreamApp01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/src/main/StreamApp02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/src/main/StreamApp03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoofdstuk19_Streams/src/main/StreamApp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoDB/FilterUtilKlasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoDB/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoDB/HouseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoDB/Immo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoDB/ImmoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/movieDB/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/movieDB/MovieDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/movieDB/MovieDBApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht1/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht11/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht11/LinkedHashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht12/TreeMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht2/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht2/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht2/MainPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht3/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht3/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht4/TreeSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht5/BurgerOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht5/QueueuApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht6/CollectionsStreamsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht6/DequeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht6/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opdracht6/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk12" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/AnonCarsApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/AnonCarsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/AnonCarsApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/CabrioletApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/CabrioletApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/GarageApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/app/GarageApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/enums/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/enums/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Cabriolet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Cabriolet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/FamilyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/FamilyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/out/production/Hoofdstuk15_Garage/garage/SportCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/AnonCarsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/AnonCarsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/CabrioletApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/CabrioletApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/GarageApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/app/GarageApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/enums/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Cabriolet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Cabriolet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/FamilyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/FamilyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/garage/SportCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/interfaces/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/src/interfaces/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk7_Cats" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk7_Cats" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immoDB/House.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immoDB/Immo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/immoDB/ImmoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="31" column="80" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immoDB/FilterUtilKlasse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/immoDB/HouseType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/opdracht1/main1.java" />
+        <option value="$PROJECT_DIR$/src/opdracht1/Main1.java" />
+        <option value="$PROJECT_DIR$/src/opdracht2/Main1.java" />
+        <option value="$PROJECT_DIR$/src/opdracht2/Main2.java" />
+        <option value="$PROJECT_DIR$/src/opdracht3/Main1.java" />
+        <option value="$PROJECT_DIR$/src/opdracht3/Main2.java" />
+        <option value="$PROJECT_DIR$/src/opdracht4/TreeSetApp.java" />
+        <option value="$PROJECT_DIR$/src/opdracht2/Main3.java" />
+        <option value="$PROJECT_DIR$/src/opdracht6/Gender.java" />
+        <option value="$PROJECT_DIR$/src/opdracht6/DequeApp.java" />
+        <option value="$PROJECT_DIR$/src/opdracht5/BurgerOrder.java" />
+        <option value="$PROJECT_DIR$/src/opdracht2/Person.java" />
+        <option value="$PROJECT_DIR$/src/opdracht1/Main2.java" />
+        <option value="$PROJECT_DIR$/src/opdracht5/QueueuApp.java" />
+        <option value="$PROJECT_DIR$/src/opdracht2/MainPerson.java" />
+        <option value="$PROJECT_DIR$/src/opdracht6/Person.java" />
+        <option value="$PROJECT_DIR$/src/opdracht6/CollectionsStreamsApp.java" />
+        <option value="$PROJECT_DIR$/src/opdracht11/Coin.java" />
+        <option value="$PROJECT_DIR$/src/opdracht11/LinkedHashMapApp.java" />
+        <option value="$PROJECT_DIR$/src/opdracht12/TreeMapApp.java" />
+        <option value="$PROJECT_DIR$/src/movieDB/Movie.java" />
+        <option value="$PROJECT_DIR$/src/movieDB/MovieDB.java" />
+        <option value="$PROJECT_DIR$/src/immoDB/HouseType.java" />
+        <option value="$PROJECT_DIR$/src/movieDB/MovieDBApp.java" />
+        <option value="$PROJECT_DIR$/src/immoDB/House.java" />
+        <option value="$PROJECT_DIR$/src/immoDB/FilterUtilKlasse.java" />
+        <option value="$PROJECT_DIR$/src/immoDB/Immo.java" />
+        <option value="$PROJECT_DIR$/src/immoDB/ImmoApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hoofdstuk20_Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hoofdstuk20_Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hoofdstuk20_Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hoofdstuk20_Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hoofdstuk20_Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hoofdstuk20_Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="immoDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hoofdstuk20_Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hoofdstuk20_Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="movieDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554986828752" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="opdracht6" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ImmoApp">
+    <configuration name="CollectionsStreamsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdracht6.CollectionsStreamsApp" />
+      <module name="Hoofdstuk20_Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opdracht6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="immoDB.ImmoApp" />
+      <module name="Hoofdstuk20_Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="immoDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdracht11.LinkedHashMapApp" />
+      <module name="Hoofdstuk20_Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opdracht11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieDBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="movieDB.MovieDBApp" />
+      <module name="Hoofdstuk20_Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="movieDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opdracht12.TreeMapApp" />
+      <module name="Hoofdstuk20_Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opdracht12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImmoApp" />
+        <item itemvalue="Application.MovieDBApp" />
+        <item itemvalue="Application.TreeMapApp" />
+        <item itemvalue="Application.LinkedHashMapApp" />
+        <item itemvalue="Application.CollectionsStreamsApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97b5420b-c2f6-4529-9b49-592f3de60600" name="Default Changelist" comment="" />
+      <created>1554715886280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554715886280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48754063" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/opdracht3/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht2/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht3/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht4/TreeSetApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht6/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht5/BurgerOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht1/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht2/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht1/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht2/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht6/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht5/QueueuApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht2/MainPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht11/LinkedHashMapApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht12/TreeMapApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movieDB/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+          <folding>
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movieDB/MovieDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="52" column="49" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht11/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht6/CollectionsStreamsApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/opdracht6/DequeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movieDB/MovieDBApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immoDB/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immoDB/Immo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immoDB/FilterUtilKlasse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immoDB/HouseType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/immoDB/ImmoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="31" column="80" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

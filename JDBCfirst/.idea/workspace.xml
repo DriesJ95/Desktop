@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52067f3a-44df-4ddf-9e98-aed566fbc680" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/BowlingScores_JUNIT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/src/main/java/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/src/main/java/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/src/test/java/BowlingScoresTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/target/classes/Frame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/target/classes/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BowlingScores_JUNIT/target/test-classes/BowlingScoresTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatanProject00/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatanProject00/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatanProject00/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatanProject00/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatanProject00/CatanProject00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatanProject00/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PreparedStatementSelectAndUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ConnectDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/.idea/Opdrachten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/db/StudentDB.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/resources/duvel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/resources/jupiler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/resources/stella-artois.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/eu/noelvaes/jdbc/ConnectDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise01/ConnectDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise02/SearchBeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise03/SearchBeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise04/ChangeStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise05/AddBeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise06/SearchBeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise07/BankTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise07/BankTransferSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise07/ChangeStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise08/UpdateStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise09/SQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise10/DatabaseMetaData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise11/SaveImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise12/Beer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise12/BeerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise12/BeerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise12/BeerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/exercise12/BeerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise01/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise02/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise03/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise04/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise05/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise06/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise07/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise12/BeerDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Opdrachten/Opdrachten/src/test/java/exercise12/BeerDaoTestDerby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatanProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatanProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk12" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk24_Threads" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk24_Threads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk7_Cats" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk7_Cats" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="beers_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="beers_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="beers_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="beers_db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PreparedStatementSelectAndUpdate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b13a007d-4f47-4fcc-85a5-173d5192e174/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ConnectDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/module-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConnectDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PreparedStatementSelectAndUpdate.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="324" />
+    <option name="width" value="1400" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCfirst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCfirst" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBCfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBCfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PreparedStatementSelectAndUpdate">
+    <configuration name="ConnectDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectDB" />
+      <module name="JDBCfirst" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreparedStatementSelectAndUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreparedStatementSelectAndUpdate" />
+      <module name="JDBCfirst" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PreparedStatementSelectAndUpdate" />
+        <item itemvalue="Application.ConnectDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52067f3a-44df-4ddf-9e98-aed566fbc680" name="Default Changelist" comment="" />
+      <created>1560237430378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560237430378</updated>
+      <workItem from="1560411737356" duration="5473000" />
+      <workItem from="1560426011512" duration="604000" />
+      <workItem from="1560488674003" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6707000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.22121535" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a7da355f-5b4f-460a-bc24-be67d88e43bb/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://b13a007d-4f47-4fcc-85a5-173d5192e174/schema/beers_db/table/beers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="c9b5f2cd-a443-4b72-97e8-33944097ee5d">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/ConnectDB.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b13a007d-4f47-4fcc-85a5-173d5192e174/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PreparedStatementSelectAndUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JDBCfirst</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
