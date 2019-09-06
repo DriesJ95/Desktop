@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef6dbb1a-a67a-407e-9158-fa45bb415845" name="Default Changelist" comment="" />
+    <list default="true" id="ef6dbb1a-a67a-407e-9158-fa45bb415845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/WebComponents_Opdracht5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/calculator.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/calculator/WEB-INF/classes/servlet/CalculatorServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/calculator/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/classes/servlet/CalculatorServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/WebComponents_SessionObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/HelloSessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/GuestBookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/GuestBookServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GuestBookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlet/GuestBookServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/guestbook.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/guestbook.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/guestbook/WEB-INF/classes/servlet/GuestBookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/guestbook/WEB-INF/classes/servlet/GuestBookServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +68,13 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="StudentDB@noelvaes.eu" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="StudentDB1: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="StudentDB: schema" type="ebfa3cd1:MariaImplModel$Schema" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="StudentDB@noelvaes.eu" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="StudentDB1: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="StudentDB: schema" type="ebfa3cd1:MariaImplModel$Schema" />
         <item name="GuestBook: table" type="dbc44a63:MariaImplModel$Table" />
       </path>
     </expand>
@@ -53,6 +88,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -61,9 +99,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1QGzJFB50mljHWP8L92h2Ov6hsA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -123,10 +165,25 @@
       <workItem from="1567420262822" duration="8907000" />
       <workItem from="1567452255672" duration="27000" />
       <workItem from="1567494306160" duration="8765000" />
+      <workItem from="1567511278934" duration="2541000" />
+      <workItem from="1567675062676" duration="2017000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

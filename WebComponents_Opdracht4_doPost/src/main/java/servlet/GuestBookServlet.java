@@ -51,7 +51,7 @@ public class GuestBookServlet extends HttpServlet {
             out.println("<br>");
             out.println("<form method='post' action=''>");
             out.println("<p>Geef hier je naam in: <input type='text' name='Name'></p>");
-            out.println("<p>Geef hier je boodschap in: <input type='textarea' name='Message'>");
+            out.println("<p>Geef hier je boodschap in: <input type='text' name='Message'>");
             out.println("<p><input type='submit' name='Add to DB'></p>");
             out.println("</form>");
             out.println("</body>");

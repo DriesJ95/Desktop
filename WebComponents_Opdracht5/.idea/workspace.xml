@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0cf19b0-8c14-4207-bfd8-af2b182cbc33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebComponents_Opdracht5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/calculator.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/calculator/WEB-INF/classes/servlet/CalculatorServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/calculator/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/CalculatorServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/WebComponents_SessionObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/HelloSessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/src/main/java/servlet/GuestBookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/src/main/java/servlet/GuestBookServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/classes/servlet/GuestBookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/classes/servlet/GuestBookServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/guestbook.war" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/guestbook.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/guestbook/WEB-INF/classes/servlet/GuestBookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/guestbook/WEB-INF/classes/servlet/GuestBookServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_Opdracht4_doPost/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QPqwEk2lM4hHyVjdah2Exe3VpP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dries\IdeaProjects\WebComponents_Opdracht5\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Dries\IdeaProjects\WebComponents_Opdracht5\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0cf19b0-8c14-4207-bfd8-af2b182cbc33" name="Default Changelist" comment="" />
+      <created>1567682815614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567682815614</updated>
+      <workItem from="1567682816784" duration="6312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
