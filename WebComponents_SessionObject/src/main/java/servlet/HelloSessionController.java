@@ -1,3 +1,5 @@
+package servlet;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -8,16 +10,16 @@ import java.io.IOException;
 import java.time.LocalTime;
 
 @WebServlet("/helloSession")
-public class HelloSessionServlet extends HttpServlet {
+public class HelloSessionController extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         LocalTime sessionStartTime;
         HttpSession session = req.getSession();
-        if((sessionStartTime = (LocalTime) session.getAttribute("sessionStartTime")) == null) {
+        if(session.getAttribute("sessionStartTime") == null) {
             sessionStartTime = LocalTime.now();
             session.setAttribute("sessionStartTime", sessionStartTime);
         }
-        resp.getWriter().println("This session started at: " + sessionStartTime);
+        req.getRequestDispatcher("/WEB-INF/pages/helloSession.jsp").forward(req,resp);
     }
 }

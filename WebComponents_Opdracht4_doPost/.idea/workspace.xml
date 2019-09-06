@@ -2,40 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6dbb1a-a67a-407e-9158-fa45bb415845" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/WebComponents_Opdracht5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/calculator.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/calculator/WEB-INF/classes/servlet/CalculatorServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/calculator/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/classes/servlet/CalculatorServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/WebComponents_SessionObject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/HelloSessionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_JSP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_JSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/database/GuestBookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/domain/GuestBookBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/servlet/GuestBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/servlet/HelloCalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/servlet/HelloJSPController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/servlet/HelloRandomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/servlet/HelloWorldDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/pages/guestbook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/pages/helloCalculator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/pages/helloJSP.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/pages/helloSession.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/pages/helloWorld.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_JSP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_JSP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_JSP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_JSP/WebComponents_JSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_JSP/WebComponents_JSP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/GuestBookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/GuestBookServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GuestBookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlet/GuestBookServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guestbook.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/guestbook.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guestbook/WEB-INF/classes/servlet/GuestBookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/guestbook/WEB-INF/classes/servlet/GuestBookServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_Opdracht5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/HelloSessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/java/servlet/HelloSessionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/target/classes/HelloSessionServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/target/sessionTest.war" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/target/sessionTest.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/target/sessionTest/WEB-INF/classes/HelloSessionServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebComponents_SessionObject/target/sessionTest/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebComponents_SessionObject/target/sessionTest/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,6 +166,9 @@
       <workItem from="1567494306160" duration="8765000" />
       <workItem from="1567511278934" duration="2541000" />
       <workItem from="1567675062676" duration="2017000" />
+      <workItem from="1567769633319" duration="1111000" />
+      <workItem from="1567775096673" duration="6000" />
+      <workItem from="1567776811185" duration="48000" />
     </task>
     <servers />
   </component>

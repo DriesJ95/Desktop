@@ -1,1 +1,8 @@
-C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\HelloSessionServlet.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\domain\GuestBookBean.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\database\GuestBookDao.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\servlet\HelloJSPController.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\servlet\HelloSessionController.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\servlet\HelloCalculatorController.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\servlet\HelloRandomController.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\servlet\GuestBookServlet.java
+C:\Users\Dries\IdeaProjects\WebComponents_SessionObject\src\main\java\servlet\HelloWorldDispatcherServlet.java
