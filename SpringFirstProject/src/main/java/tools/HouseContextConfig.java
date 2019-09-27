@@ -1,4 +1,4 @@
-package contextConfigs;
+package tools;
 
 import org.springframework.context.annotation.*;
 import services.implementations.CleaningServiceImpl;
@@ -12,6 +12,8 @@ import tools.interfaces.CleaningTool;
 import tools.interfaces.GardeningTool;
 
 @Configuration public class HouseContextConfig {
+
+    //CleaningStuff
 
     @Bean
     @Scope("prototype")
@@ -66,6 +68,8 @@ import tools.interfaces.GardeningTool;
         return cleaningService;
     }
 
+    //GardenStuff
+
     @Bean
     @Lazy
     public GardeningTool lawnMower(){
@@ -79,6 +83,8 @@ import tools.interfaces.GardeningTool;
         gardeningService.setGardeningTool(gardeningTool);
         return gardeningService;
     }
+
+    //DomesticStuff
 
     @Bean(initMethod = "init", destroyMethod = "destroy")
     @Lazy

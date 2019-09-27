@@ -1,6 +1,6 @@
 package apps;
 
-import contextConfigs.HouseContextConfig;
+import tools.HouseContextConfig;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import services.interfaces.CleaningService;
