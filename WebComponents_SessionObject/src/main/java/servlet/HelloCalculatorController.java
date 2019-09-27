@@ -8,11 +8,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
-import java.io.PrintWriter;
 
 @WebServlet("/helloCalculator")
 public class HelloCalculatorController extends HttpServlet {
-        private final String RESULT = "CaculatorServlet.result";
+        private final String RESULT = "HelloCalculatorController.result";
         private final String NUMBER = "number";
 
         @Override
